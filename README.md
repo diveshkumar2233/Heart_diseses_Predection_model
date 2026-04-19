@@ -91,18 +91,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
-
-👉 *Add your deployed link here*
-
----
-
-## 📸 Screenshots
-
-*Add screenshots of your app UI here*
-
----
-
 ## 💡 Future Improvements
 
 * 🔹 Add more ML models (Logistic Regression, Random Forest)
