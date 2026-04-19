@@ -77,7 +77,7 @@ The application provides:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/heart-stroke-prediction.git
+(https://github.com/diveshkumar2233/Heart_diseses_Predection_model/tree/main/Heart_diseses_Prediction)
 
 # Navigate to project
 cd heart-stroke-prediction
